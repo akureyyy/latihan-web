@@ -1,0 +1,27 @@
+
+
+.container {
+background-color: grey;
+border-bottom: 2px solid black;
+padding: 15px 150px 15px 0;
+margin: 10px 30px 10px 30px;
+}
+
+
+.question-title {
+    color: aqua;
+}
+
+h1 {
+    font-size: large;
+}
+h2 {
+    font-size: medium;
+}
+.question-ins {
+    font-weight: bold;
+}
+
+
+
+
